@@ -12,3 +12,15 @@ buildscript {
     repositories {
         google()
 ```
+
+## Web Demonstration
+
+The audio files take some time to load.
+
+https://codetricity.github.io/flame_audio_tutorial/
+
+## Build for Web
+
+```text
+flutter build web --base-href=/flame_audio_tutorial/
+```
