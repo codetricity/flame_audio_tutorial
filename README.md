@@ -24,3 +24,9 @@ https://codetricity.github.io/flame_audio_tutorial/
 ```text
 flutter build web --base-href=/flame_audio_tutorial/
 ```
+
+## dispose of audio resources
+
+https://discord.com/channels/509714518008528896/516639688581316629/935538423576547368
+
+> You can override onRemove in the game, that one will be called when the widget is disposed.
